@@ -1,6 +1,5 @@
-<img src="https://user-images.githubusercontent.com/your-username/your-image.jpg" 
-     alt="Titelbild" 
-     style="width:100%; height:auto; border-top-left-radius: 20px; border-top-right-radius: 20px;">
+![Titelbild](https://user-images.githubusercontent.com/your-username/your-image.jpg)
+
 
 # pollenonmonitor
 See the lates pollen activity!
