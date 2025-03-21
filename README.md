@@ -1,5 +1,9 @@
 ![Image](https://github.com/user-attachments/assets/cc7762f7-6ed3-44c0-aba3-a01ddd6eddd7)
 
+<img src="https://user-images.githubusercontent.com/your-username/your-image.jpg" 
+     alt="Titelbild" 
+     style="width:100%; height:auto; border-top-left-radius: 20px; border-top-right-radius: 20px;">
+
 
 # pollenonmonitor
 See the lates pollen activity!
